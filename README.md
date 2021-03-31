@@ -66,6 +66,11 @@ When I looked at the graphs for bitcoin and ethereum, it seemed to me like an un
 I was wondering whether we can sample five countries and link these datasets with Covid datasets. 
 
 
+5- [M5 Forecasting - Accuracy | Kaggle](https://www.kaggle.com/c/m5-forecasting-accuracy/data)
+
+I was wondering whether we can take a sample of this data for the project to avoid excessive computation.  
+
+
 ### genuine project ideas   
 
 **scattered ideas** 
