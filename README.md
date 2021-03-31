@@ -43,8 +43,30 @@ I have forked this project in this repo
 
 ### datasets   
 
+1- [Unemployment Rate (UNRATE) | FRED | St. Louis Fed](https://fred.stlouisfed.org/series/UNRATE)
+
+The most popular dataset with the tag `unemployment` 
+
+*Advantages*   long duration, all states, 
+
+2- [Job Openings (Levels and Rates) | FRED | St. Louis Fed](https://fred.stlouisfed.org/categories/32243)
+
+I was thinking of including all the four datasets, so that it includes levels, rates as well as seasonal adjusted and non seasonal adjusted datasets. This way I think, we can test students' ability to remove seasonality from the dataset.
+Also, this dataset ends in Jan 2021. Students may forecast the whole year of 2021. Later, maybe an update of the dataset maybe published and they can compare their predictions to the actual results.  
+
+Finally, I think we can relate job openings with [Hires (Levels and Rates) | FRED | St. Louis Fed](https://fred.stlouisfed.org/categories/32245) as well as [Quits (Levels and Rates) | FRED | St. Louis Fed](https://fred.stlouisfed.org/categories/32247) 
+
+3- [Cryptocurrencies | FRED | St. Louis Fed](https://fred.stlouisfed.org/categories/33913) 
+
+When I looked at the graphs for bitcoin and ethereum, it seemed to me like an unprecendented increase. 
+
+
+4- [By Country | FRED | St. Louis Fed](https://fred.stlouisfed.org/categories/158)
+
+I was wondering whether we can sample five countries and link these datasets with Covid datasets. 
 
 
 ### genuine project ideas   
 
+**scattered ideas** 
 
